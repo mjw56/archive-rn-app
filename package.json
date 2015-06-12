@@ -1,0 +1,22 @@
+{
+  "name": "randUM",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node_modules/react-native/packager/packager.sh"
+  },
+  "devDependencies": {
+    "alt": "^0.15.4",
+    "es6-promise": "^2.0.1",
+    "lodash.sortbyall": "^3.1.1",
+    "parse": "^1.4.2",
+    "react-native": "^0.4.2",
+    "react-native-icons": "../react-native-icons",
+    "react-native-navbar": "^0.5.0",
+    "react-native-side-menu": "../react-native-side-menu",
+    "react-native-video": "../react-native-video"
+  },
+  "dependencies": {
+    "react-native-icons": "0.0.5"
+  }
+}
